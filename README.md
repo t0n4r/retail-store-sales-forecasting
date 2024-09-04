@@ -1,5 +1,5 @@
 # Retail Store Sales Forecast
-This project implements a time series forecasting solution for retail store sales using the "Store Sales - Time Series Forecasting" dataset. It includes data preprocessing, feature engineering, model training using Facebook's Prophet, and a Streamlit dashboard for visualizing the results.
+This project uses the "Store Sales - Time Series Forecasting" dataset to implement a time series forecasting solution for retail store sales. It includes data preprocessing, feature engineering, model training using Facebook's Prophet, and a Streamlit dashboard for visualizing the results. Please kindly create a data folder and add the train.csv and stores.csv files.
 
 # Project Structure
 ```
